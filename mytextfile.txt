@@ -1,1 +1,4 @@
 Here is a line of text.
+Here is a new line.
+Here is a third line
+\
